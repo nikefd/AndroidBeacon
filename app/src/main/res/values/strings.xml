@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidBeacon</string>
+    <string name="time">Time:</string>
+    <string name="deviceId">DeviceID:</string>
+    <string name="uuid">UUID:</string>
+    <string name="slot">Slot:</string>
+    <string name="firstND">FirstDiscoverySlot:</string>
+    <string name="curSlot">CurSlot:</string>
+</resources>
