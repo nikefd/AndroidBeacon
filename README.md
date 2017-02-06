@@ -1,2 +1,2 @@
 # AndroidBeacon
-A simple app to implement Neighbor Discovery on Android devices.
+A simple demo to implement Neighbor Discovery on Android devices.
